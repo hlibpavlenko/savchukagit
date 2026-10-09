@@ -1,9 +1,5 @@
-Savchuk Parliament Mockup
+Агітаційна сторінка Яни Савчук
 
-Static GitHub Pages site for the school parliament mockup.
+Репозиторій статичного вебсайту агітаційної сторінки для GitHub Pages. 
 
-Files:
-- index.html
-- css/style.css
-- js/main.js
-- images/
+
